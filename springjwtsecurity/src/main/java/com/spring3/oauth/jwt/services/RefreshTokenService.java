@@ -10,11 +10,6 @@ import java.time.Instant;
 import java.util.Optional;
 import java.util.UUID;
 
-/**
- * @author mhmdz
- * Created By Zeeshan on 20-05-2023
- * @project oauth-jwt
- */
 
 @Service
 public class RefreshTokenService {
